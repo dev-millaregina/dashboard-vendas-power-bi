@@ -1,8 +1,6 @@
 # Dashboard de Análise de Vendas | Power BI Analyst
 
-Projeto desenvolvido como parte do desafio prático da formação **Power BI Analyst**, disponibilizada pela **DIO (Digital Innovation One)**.
-
-O objetivo é transformar a base **Financial Sample** em informações visuais para acompanhar vendas, lucratividade, unidades vendidas e desempenho comercial por produto, segmento e país.
+Projeto desenvolvido como parte do desafio prático da formação **Power BI Analyst**, disponibilizada pela **DIO (Digital Innovation One)**. O objetivo é transformar a base **Financial Sample** em informações visuais para acompanhar vendas, lucratividade, unidades vendidas e desempenho comercial por produto, segmento e país.
 
 ## Sobre o projeto
 
